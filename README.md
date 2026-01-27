@@ -48,4 +48,5 @@ This analysis provides actionable insights that can support strategic decision-m
 in pricing, inventory planning, and regional performance optimization.
 
 ---
-📌 *This project is suitable for Data Analyst portfolios, internships, and interview discussions.*
+Autor 
+Roshan Poojari
