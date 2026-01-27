@@ -1,0 +1,33 @@
+## 📊 Amazon Sales Data Analysis – Business Questions
+
+### 1. Which regions have the highest total sales revenue?
+
+### 2. What is the average unit price and unit cost for each item type?
+
+### 3. Which country has the highest total profit?
+
+### 4. How does the sales channel affect the order priority distribution?
+
+### 5. What is the average order processing time for each sales channel?
+
+### 6. Which item types have the highest and lowest total sales?
+
+### 7. How does the order priority vary across different regions?
+
+### 8. What is the correlation between unit price and total profit?
+
+### 9. Are there any seasonal trends or patterns in the sales data?
+
+### 10. How does the number of units sold vary across different countries?
+
+### Other Queries
+#### 11. How does the total sales revenue vary across different countries?
+#### 12. What is the distribution of unit prices for each item type?
+#### 13. Which sales channel has the highest average unit price?
+#### 14. Are there any outliers in the total cost distribution?
+#### 15. How does the total profit vary across different item types?
+#### 16. What is the average order processing time for each country?
+#### 17. Which region has the highest average total revenue per order?
+#### 18. Is there a relationship between the number of units sold and the total profit?
+#### 19. How does the order priority vary based on the item type?
+#### 20. Are there any trends or patterns in the order dates?
