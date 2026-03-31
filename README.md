@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Data Analysis
+# 📊 Amazon Sales Data Analysis (Python)
 
 ## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on Amazon sales data to identify
